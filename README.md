@@ -54,7 +54,7 @@ For further details of Sambahsa:
 
 The pronunciation of Sambahsa words can be explained using a set of phonetic symbols known as Sambahsa Phonetic Transcription (SPT). This document instead uses the International Phonetic Alphabet (IPA) for this purpose.
 
-In the table below, on each line normal Sambahsa spelling such as **ai** is shown first, followed by SPT such as [ä] in square brackets and then IPA such as /ɛː/ between forward slashes. An underscore such as in **ch**_ or \_**y**\_ means 'any consonant.' A question mark such as in **e**? means 'in some positions only.'
+On each line of the table below, normal Sambahsa spelling such as **ai** is shown first, followed by SPT such as [ä] in square brackets and then IPA such as /ɛː/ between forward slashes. An underscore such as in **ch**_ or \_**y**\_ means 'any consonant.' A question mark such as in **e**? means 'in some positions only.' (To see this file with nice colour-coding, download this Sambahsa repository and unzip it, then view README.html offline.)
 
 Unfortunately, several Sambahsa phonemes occur less commonly or never in English and therefore will be unnatural for some English speakers. The most important of these is that [e] is the pure vowel /e/ as in French <i>caf<b>é</b></i>; it is not the diphthong /eɪ/ as in d<b>ay</b>. Getting this wrong can cause confusion between **e** and **ei**. Nevertheless, for all such phonemes the author has in parentheses indicated a suggested ***compromise*** for English speakers.
 
@@ -128,7 +128,7 @@ Other combinations:
 
 ---
 
-`20160602 / 20160603-1843`
+`20160602 / 20160603-1850`
 
 ---
 
