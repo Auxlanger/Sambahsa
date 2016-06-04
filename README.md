@@ -52,19 +52,25 @@ For further details of Sambahsa:
 
 ## Phonemes
 
+<b>WARNING: This section currently contains some errors and omissions.</b> It is gradually being improved in consultation with Dr&nbsp;Olivier&nbsp;Simon and as a result of ongoing study of the phonemic inventory of Sambahsa.
+
+<br/><br/>
+
 The pronunciation of Sambahsa words can be explained using a set of phonetic symbols known as Sambahsa Phonetic Transcription (SPT). This document instead uses the International Phonetic Alphabet (IPA) for this purpose.
 
-On each line of the table below, normal Sambahsa spelling such as **ai** is shown first, followed by SPT such as [ä] in square brackets and then IPA such as /ɛː/ between forward slashes. An underscore such as in **ch**_ or \_**y**\_ means 'any consonant.' A question mark such as in **e**? means 'in some positions only.' (To see this file with nice colour-coding, download this Sambahsa repository and unzip it, then view README.html offline.)
+On each line of the table below, normal Sambahsa spelling such as **ai** is shown first in bold green, followed by SPT such as [ä] in square brackets and then IPA such as /ɛ/ between forward slashes. An underscore such as in **ch**_ or \_**y**\_ means 'any consonant.' A question mark such as in **e**? means 'in some positions only.' (To see this file with nice colour-coding, download this Sambahsa repository and unzip it, then view README.html offline in your browser. The colours are invisible on GitHub.)
 
-Unfortunately, several Sambahsa phonemes occur less commonly or never in English and therefore will be unnatural for some English speakers. The most important of these is that [e] is the pure vowel /e/ as in French <i>caf<b>é</b></i>; it is not the diphthong /eɪ/ as in d<b>ay</b>. Getting this wrong can cause confusion between **e** and **ei**. Nevertheless, for all such phonemes the author has in parentheses indicated a suggested ***compromise*** for English speakers.
+Unfortunately, several Sambahsa phonemes occur less commonly or never in English and therefore will be unnatural for some English speakers. For all such phonemes the author has in parentheses indicated a suggested ***compromise*** for English speakers. The most important of these is that [e] is the pure vowel /e/ as in French <i>caf<b>é</b></i>; it is not the diphthong /eɪ/ as in d<b>ay</b>. Getting this wrong can cause confusion between **e** and **ei**. Here the best compromise is to use pure /ɛ/ as in "b<b>e</b>d". 
 
-Note that **h** lengthens the preceding vowel.
+Note that **h** lengthens the preceding vowel. For now, such lengthened vowels are included in the main table while the initial draft of this document is being completed. This may be rearranged later so that phonemes are grouped into different tables for: short vowels, long vowels, diphthongs, semivowels and consonants. The author is compiling a phonemic inventory.
+
+The IPA below uses /ɑ/ for [a]. The French-dictionary IPA symbol /a/ is used in the official Sambahsa documentation; that is an open front unrounded vowel sound very close to the open back unrounded vowel sound /ɑ/ and the difference is of no importance to being understood in Sambahsa. The symbol /a/ is not used here because in English dictionaries IPA /a/ is typically used to represent the sound in "c<b>a</b>t" (actually /æ/) and that would be totally misleading. Therefore here /ɑ/ is used for [a].
 
 The phonemes of Sambahsa are approximately:
 
-1. **a** = [a] = <b>/ɑ/</b> = shorter than "f<b>a</b>ther" (***compromise:*** <b>/ɑː/</b> just as in "f<b>a</b>ther")
+1. **a** = [a] = <b>/ɑ/</b> = shorter than "f<b>a</b>ther"
 1. **ah** = [a:] = <b>/ɑː/</b> = "f<b>a</b>ther"
-1. **ai** = [ä] = <b>/ɛː/</b> = longer than "b<b>e</b>d" (***compromise:*** <b>/ɛ/</b> just as in "b<b>e</b>d")
+1. **ai** = [ä] = <b>/ɛ/</b> = "b<b>e</b>d"
 1. **b**, **bh** = [b] = <b>/b/</b> = "<b>b</b>ed"
 1. **sch** = [c] = <b>/ʃ/</b> = "<b>sh</b>e"
 1. **d**, **dh** = [d] = <b>/d/</b> = "<b>d</b>o"
@@ -128,7 +134,7 @@ Other combinations:
 
 ---
 
-`20160602 / 20160603-1850`
+`20160602 / 20160603-1336`
 
 ---
 
