@@ -60,7 +60,7 @@ The pronunciation of Sambahsa words can be explained using a set of phonetic sym
 
 On each line of the table below, normal Sambahsa spelling such as **ai** is shown first in bold green, followed by SPT such as [ä] in square brackets and then IPA such as /ɛ/ between forward slashes. An underscore such as in **ch**_ or \_**y**\_ means 'any consonant.' A question mark such as in **e**? means 'in some positions only.' (To see this file with nice colour-coding, download this Sambahsa repository and unzip it, then view README.html offline in your browser. The colours are invisible on GitHub.)
 
-Unfortunately, several Sambahsa phonemes occur less commonly or never in English and therefore will be unnatural for some English speakers. For all such phonemes the author has in parentheses indicated a suggested ***compromise*** for English speakers. The most important of these is that [e] is the pure vowel /e/ as in French <i>caf<b>é</b></i>; it is not the diphthong /eɪ/ as in d<b>ay</b>. Getting this wrong can cause confusion between **e** and **ei**. Here the best compromise is to use pure /ɛ/ as in "b<b>e</b>d". 
+Unfortunately, several Sambahsa phonemes occur less commonly or never in English and therefore will be unnatural for some English speakers. For some of these phonemes the author has in parentheses indicated a suggested ***compromise*** for English speakers. However, it is important that [e] is the pure vowel /e/ as in French <i>caf<b>é</b></i>; it is not the diphthong /eɪ/ as in d<b>ay</b>. Getting this wrong can cause confusion between **e** and **ei**.
 
 Note that **h** lengthens the preceding vowel. For now, such lengthened vowels are included in the main table while the initial draft of this document is being completed. This may be rearranged later so that phonemes are grouped into different tables for: short vowels, long vowels, diphthongs, semivowels and consonants. The author is compiling a phonemic inventory.
 
@@ -74,29 +74,30 @@ The phonemes of Sambahsa are approximately:
 1. **b**, **bh** = [b] = <b>/b/</b> = "<b>b</b>ed"
 1. **sch** = [c] = <b>/ʃ/</b> = "<b>sh</b>e"
 1. **d**, **dh** = [d] = <b>/d/</b> = "<b>d</b>o"
-1. **e**? = [e] = <b>/e/</b> = French <i>caf<b>é</b></i> (***compromise:*** <b>/eɪ/</b> as in "d<b>ay</b>")
+1. **e**? = [e] = <b>/e/</b> = French <i>caf<b>é</b></i> (***difficult for English speakers***)
 1. **e**? = [ë] = <b>/ə/</b> = "<b>a</b>go" (but **e** is silent in some positions, such as in **rose**)
-1. **eh** = [e:] = <b>/eː/</b> = like French <i>caf<b>é</b></i> but longer (***compromise:*** <b>/eɪ/</b> as in "d<b>ay</b>")
+1. **eh** = [e:] = <b>/eː/</b> = like French <i>caf<b>é</b></i> but longer (***difficult for English speakers***)
 1. **f**, **ph** = [f] = <b>/f/</b> = "<b>f</b>ather"
 1. **g**a, **g**o, **g**u, **gh** = [g] = <b>/g/</b> = "<b>g</b>et"
 1. **h**a, **h**e, **h**i, **h**o, **h**u, **h**y  = [h] = <b>/h/</b> = "<b>h</b>otel"
 1. **i**, **y**? = [i] = <b>/i/</b> = "cos<b>y</b>" (***compromise:*** <b>/ɪ/</b> as in "s<b>i</b>t")
 1. **ih**, **ie**? = [i:] = <b>/iː/</b> = "s<b>ee</b>"
-1. **j**, **g**e, **g**i, **g**y = [j] = <b>/ʒ/</b> = "deci<b>si</b>on" (***compromise:*** <b>/dʒ/</b> as in "<b>j</b>et")
+1. **j** = [j] = <b>/ʒ/</b> = "deci<b>si</b>on"
+1. **g**e, **g**i, **g**y = [dj] = <b>/dʒ/</b> = "<b>j</b>et"
 1. **c**a, **c**o, **c**u, **c**k, c**k**, **ch**_, **k** = [k] = <b>/k/</b> = "<b>c</b>at" (therefore **ck** is /kk/)
 1. **l** = [l] = <b>/l/</b> = "<b>l</b>ow"
 1. **m** = [m] = <b>/m/</b> = "<b>m</b>an"
 1. **n** = [n] = <b>/n/</b> = English "<b>n</b>ame"
-1. **o** = [o] = <b>/o/</b> = Spanish <i>n<b>o</b></i> (***compromise:*** <b>/ɒ/</b> as in "n<b>o</b>t" or <b>/əʊ/</b> as in "g<b>o</b>")
+1. **o** = [o] = <b>/o/</b> = Spanish <i>n<b>o</b></i> (***compromise:*** <b>/ɒ/</b> as in "n<b>o</b>t")
 1. **oh** = [o:] = <b>/oː/</b> = like Spanish <i>n<b>o</b></i> but longer (***compromise:*** <b>/əʊ/</b> as in "g<b>o</b>")
-1. [ö] = <b>/ø/</b> = French <i>p<b>eu</b></i> (***compromise:*** <b>/əː/</b> as in "h<b>er</b>")
+1. **eu** = [ö] = <b>/ø/</b> = French <i>p<b>eu</b></i> (***compromise:*** <b>/əː/</b> as in "h<b>er</b>")
 1. **p** = [p] = <b>/p/</b> = "<b>p</b>an"
-1. **kh** = [q] = <b>/x/</b> = "lo<b>ch</b>" (***compromise:*** <b>/k/</b> as in "lo<b>ck</b>")
+1. **kh** = [q] = <b>/x/</b> = "lo<b>ch</b>" (***very undesirable compromise:*** <b>/k/</b> as in "lo<b>ck</b>")
 1. **r** = [r] = <b>/ʀ/</b> =  German <i><b>r</b>ot</i> (***compromise:*** <b>/ɹ/</b> = "<b>r</b>ed" or any rhotic consonant)
 1. **rr**, **rh** = [rr] = <b>/r/</b> = Spanish <i>ca<b>rr</b>o</i> (***compromise:*** <b>/ɹ/</b> = "<b>r</b>ed" or any rhotic consonant)
 1. **s**? = [s] = <b>/s/</b> = "<b>s</b>o"
 1. **t**, **th**? = [t] = <b>/t/</b> = "<b>t</b>en"
-1. **u**?, \_**w**\_ = [u] = <b>/u/</b> = like "t<b>oo</b>" but shorter (***compromise:*** <b>/uː/</b> just as in "t<b>oo</b>")
+1. **u**?, \_**w**\_ = [u] = <b>/u/</b> = like "t<b>oo</b>" but shorter
 1. **ou**, **uh**? = [u:] = <b>/uː/</b> = "t<b>oo</b>"
 1. **u**?, \_**y**\_ = [ü] = <b>/y/</b> = German <b><i>ü</b>ber</i> (***compromise:*** <b>/uː/</b> as in "f<b>ew</b>")
 1. **v** = [v] = <b>/v/</b> = "<b>v</b>ote"
@@ -113,7 +114,6 @@ The phonemes of Sambahsa are approximately:
 1. **ch**? = [tc] = <b>/tʃ/</b> = "<b>ch</b>ew"
 1. **ei** = [] = <b>/eɪ/</b> = "d<b>ay</b>"
 1. **eau** = [o:] = <b>/oː/</b> = French <i>bur<b>eau</b></i> (***compromise:*** <b>/əʊ/</b> as in "g<b>o</b>") 
-1. **eu** = [ö:] = <b>/øː/</b> = (***compromise:*** <b>/əː/</b> as in "h<b>er</b>")
 1. **oe** = [] = <b>/ɔɪ/</b> = "b<b>oy</b>"
 
 Other combinations:
@@ -134,7 +134,7 @@ Other combinations:
 
 ---
 
-`20160602 / 20160603-1336`
+`20160602 / 20160603-1438`
 
 ---
 
