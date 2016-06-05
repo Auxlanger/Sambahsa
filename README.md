@@ -54,7 +54,7 @@ For further details of Sambahsa:
 
 The pronunciation of Sambahsa words can be explained using a set of phonetic symbols known as Sambahsa Phonetic Transcription (SPT). This document instead uses the International Phonetic Alphabet (IPA) for this purpose.
 
-On each line of the table below, normal Sambahsa spelling such as **ai** is shown first in bold green, followed by SPT such as [ä] in square brackets and then IPA such as /ɛ/ between forward slashes. An underscore such as in **ch**_ or \_**y**\_ means 'any consonant.' A question mark such as in **e**? means 'in some positions only.' (To see colour, download and view README.html offline.)
+On each line of the table below, normal Sambahsa spelling such as **ai** is shown first in bold green, followed by SPT such as [ä] in square brackets and then IPA such as /ɛ/ between forward slashes. An underscore such as in **ch**_ or \_**y**\_ means 'any consonant.' A question mark such as in **e**? means 'in some positions only.' (To see colour, download README.html.)
 
 Unfortunately, several Sambahsa phonemes will be difficult for English speakers. For some of these the author has in parentheses indicated a suggested ***compromise*** for English speakers. However, [e] should always be pronounced as the pure vowel /e/ as in French <i>caf<b>é</b></i> and never as the diphthong /eɪ/ as in d<b>ay</b>, otherwise confusion will occur between **e** and **ei**.
 
@@ -70,7 +70,7 @@ Some sounds of Sambahsa listed in alphabetical order by SPT:
 1. **ah** = [a:] = <b>/ɑː/</b> = "f<b>a</b>ther"
 1. **ai** = [ä] = <b>/ɛ/</b> = "b<b>e</b>d"
 1. **ae** = [ae] = <b>/ʌɪ/</b> = "<b>I</b>"
-1. **au** = [au] = <b>/aʊ/</b> = "h<b>ow</b>"
+1. **au** = [Ao] = <b>/aʊ/</b> = "h<b>ow</b>"
 1. **b**, **bh** = [b] = <b>/b/</b> = "<b>b</b>ed"
 1. **sch** = [c] = <b>/ʃ/</b> = "<b>sh</b>e"
 1. **d**, **dh** = [d] = <b>/d/</b> = "<b>d</b>o"
@@ -78,7 +78,8 @@ Some sounds of Sambahsa listed in alphabetical order by SPT:
 1. **z**? = [dz] = <b>/dz/</b> = "a<b>dds</b>"
 1. **e**? = [e] = <b>/e/</b> = French <i>caf<b>é</b></i> (***important but difficult for English speakers***)
 1. **eh** = [e:] = <b>/eː/</b> = like French <i>caf<b>é</b></i> but longer (***important but difficult for English speakers***)
-1. **ee** = ['eë] = <b>/ˈeə/</b> = ***NATURAL-LANGUAGE EXAMPLE NEEDED***
+1. **ee**? = [Eë] = <b>/ˈeə/</b> = like German <i><b>Ehe</b></i> but shorter
+1. **ee**? = [e:] = <b>/e:/</b> = at the end of a word: like German <i>Arm<b>ee</b></i>
 1. **ei** = [ei] = <b>/eɪ/</b> = "d<b>ay</b>"
 1. **e**? = [ë] = <b>/ə/</b> = "<b>a</b>go" (but **e** is silent in some positions, such as in **rose**)
 1. **f**, **ph** = [f] = <b>/f/</b> = "<b>f</b>ather"
@@ -100,7 +101,7 @@ Some sounds of Sambahsa listed in alphabetical order by SPT:
 1. **gn** = [ny] = <b>/nj/</b> = "ca<b>ny</b>on"
 1. **o** = [o] = <b>/o/</b> = Spanish <i>n<b>o</b></i> (***compromise:*** <b>/ɒ/</b> as in "n<b>o</b>t")
 1. **oh**, **eau** = [o:] = <b>/oː/</b> = like French <i>bur<b>eau</b></i> or like Spanish <i>n<b>o</b></i> but longer (***compromise:*** <b>/əʊ/</b> as in "g<b>o</b>")
-1. **oe** = [oe] = <b>/ɔɪ/</b> = "b<b>oy</b>"
+1. **oe** = [oy] = <b>/ɔɪ/</b> = "b<b>oy</b>"
 1. **eu** = [ö] = <b>/ø/</b> = French <i>p<b>eu</b></i> (***compromise:*** <b>/əː/</b> as in "h<b>er</b>")
 1. **p** = [p] = <b>/p/</b> = "<b>p</b>an"
 1. **kh** = [q] = <b>/x/</b> = "lo<b>ch</b>" (***very undesirable compromise:*** <b>/k/</b> as in "lo<b>ck</b>")
@@ -116,19 +117,19 @@ Some sounds of Sambahsa listed in alphabetical order by SPT:
 1. **u**?, \_**w**\_ = [u] = <b>/u/</b> = like "t<b>oo</b>" but shorter
 1. **ou**, **uh**? = [u:] = <b>/uː/</b> = "t<b>oo</b>"
 1. **u**?, \_**y**\_ = [ü] = <b>/y/</b> = German <b><i>ü</b>ber</i> (***compromise:*** <b>/uː/</b> as in "f<b>ew</b>")
+1. **ue**, \_**yh**\_ = [ü:] = <b>/yː/</b> = like German <b><i>ü</b>ber</i> but longer (***compromise:*** <b>/uː/</b> as in "f<b>ew</b>")
 1. **uy** = [u:i] = <b>/uːi/</b> = "g<b>ooey</b>"
 1. **v** = [v] = <b>/v/</b> = "<b>v</b>ote"
 1. **w**? = [w] = <b>/w/</b> = "<b>w</b>ay"
 1. **ui** = [wi:] = <b>/wiː/</b> = "<b>we</b>"
 1. **sh** = [x] = <b>/ç/</b> = German <i>ni<b>ch</b>t</i>  (***compromise:*** <b>/sh/</b> as in "cla<b>sh</b>ed")
 1. **y**? = [y] = <b>/j/</b> = "<b>y</b>ou"
-1. **ie**_ = [ye] = <b>/je/</b> = ***NATURAL-LANGUAGE EXAMPLE NEEDED***
-1. **ies** = [yës] = <b>/jɛs/</b> = "<b>yes</b>"
+1. **ie**_ = [ye] = <b>/je/</b> = a little like "<b>ye</b>s" but with /e/ not /ɛ/
 1. **s**? = [z] = <b>/z/</b> = "<b>z</b>oo"
 
 ---
 
-`20160602 / 20160605-1317`
+`20160602 / 20160605-1759`
 
 ---
 
