@@ -62,7 +62,7 @@ To avoid confusion, this document uses /ɑ/ for [a]. The French-dictionary IPA s
 
 According to its inventor, Sambahsa has no real phonotactics, it only has rules of orthography and rules of accentuation, and this was intentional; that is, this was fully a design decision and not an oversight. Therefore it is impossible to list the rules of phonotactics because no such rules are defined other than those implied by the rules of accentuation. Other than checking to see if a proposed new word would violate the rules of the orthography or would not seem to be addressed by the existing rules of accentuation, it is therefore sometimes difficult to ascertain if a proposed new word would be legal or illegal.
 
-Since Sambahsa has no defined system of phonotactics, the author has abandoned his attempt to list an inventory of Sambahsa phonemes, including elucidating the number of short vowels, long vowels, consonants, semivowels and so on in Sambahsa because in view of the above he finds it impossibly difficult to do so.
+Since Sambahsa has no defined system of phonotactics, the author has abandoned his attempt to list an inventory of Sambahsa phonemes, including elucidating the number of short vowels, long vowels, consonants, semivowels and so on in Sambahsa, because in view of the above he finds it impossibly difficult to do so.
 
 Some sounds of Sambahsa listed in alphabetical order by SPT:
 
@@ -128,7 +128,7 @@ Some sounds of Sambahsa listed in alphabetical order by SPT:
 
 ---
 
-`20160602 / 20160605-1253`
+`20160602 / 20160605-1257`
 
 ---
 
