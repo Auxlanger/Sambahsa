@@ -46,7 +46,7 @@ For further details of Sambahsa:
 
 ## Table of Contents
 
-- [<b>Sounds</b>](#Sounds)
+- [<b>Sounds</b>](#sounds)
 
 ---
 
