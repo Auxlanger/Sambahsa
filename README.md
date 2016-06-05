@@ -111,7 +111,7 @@ Some sounds of Sambahsa listed in alphabetical order by SPT:
 1. **sc**a, **sc**o, **sc**u = [sk] = <b>/sk/</b> = "<b>sc</b>ollop"
 1. **t**, **th**? = [t] = <b>/t/</b> = "<b>t</b>en"
 1. **ch**? = [tc] = <b>/tʃ/</b> = "<b>ch</b>ew"
-1. **c**e?, **c**i?, **c**y? = [ts] = <b>/ts/</b> = "tse<b>ts</b>e fly" or "He bea<b>ts</b> a drum." (not if preceded by **s**, see below)
+1. **c**e?, **c**i?, **c**y? = [ts] = <b>/ts/</b> = "tse<b>ts</b>e fly" or "He bea<b>ts</b> a drum." (not if preceded by **s**)
 1. **th**? = [§] = <b>/θ/</b> = "<b>th</b>in"
 1. **u**?, \_**w**\_ = [u] = <b>/u/</b> = like "t<b>oo</b>" but shorter
 1. **ou**, **uh**? = [u:] = <b>/uː/</b> = "t<b>oo</b>"
@@ -128,7 +128,7 @@ Some sounds of Sambahsa listed in alphabetical order by SPT:
 
 ---
 
-`20160602 / 20160605-1257`
+`20160602 / 20160605-1317`
 
 ---
 
