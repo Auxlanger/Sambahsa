@@ -177,7 +177,7 @@ Other units combining vowels include: <b>/ˈeə/ /uːi/</b>
 
 ### Semivowels
 
-Ssemivowels sounds include: <b>/j w/</b>
+Semivowels sounds include: <b>/j w/</b>
 
 1. **y**? = [y] = <b>/j/</b> = "<b>y</b>ou" [note: see also **gn**; it represents /nj/]
 1. **w**?, **u**? = [w] = <b>/w/</b> = "<b>w</b>ay" (**ui** = <b>/wiː/</b>)
@@ -224,7 +224,7 @@ Consonant phonemes (25) include: <b>/b c ç d dʒ f g h ʒ k l m n ŋ p ʀ r s �
 
 ---
 
-`20160602 / 20160606-1517`
+`20160602 / 20160606-1700`
 
 ---
 
