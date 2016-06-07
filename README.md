@@ -110,7 +110,7 @@ Some sounds of Sambahsa listed in alphabetical order by SPT:
 1. **kh** = [q] = <b>/x/</b> = "lo<b>ch</b>" (***very undesirable compromise:*** <b>/k/</b> as in "lo<b>ck</b>")
 1. **r** = [r] = <b>/ʀ/</b> =  German <i><b>r</b>ot</i> (***compromise:*** <b>/ɹ/</b> = "<b>r</b>ed" or any rhotic consonant)
 1. **rr**, **rh** = [rr] = <b>/r/</b> = Spanish <i>ca<b>rr</b>o</i> (***compromise:*** <b>/ɹ/</b> = "<b>r</b>ed" or any rhotic consonant)
-1. **s**? = **sc**e, **sc**i, **sc**y = [s] = <b>/s/</b> = "<b>sc</b>ience"
+1. **s**?, **sc**e, **sc**i, **sc**y = [s] = <b>/s/</b> = "<b>sc</b>ience"
 1. **sc**a, **sc**o, **sc**u = [sk] = <b>/sk/</b> = "<b>sc</b>ollop"
 1. **t**, **th**? = [t] = <b>/t/</b> = "<b>t</b>en"
 1. **ch**? = [tc] = <b>/tʃ/</b> = "<b>ch</b>ew"
@@ -148,7 +148,6 @@ The short vowels include: <b>/ɑ ɛ e ə i o ø u y/</b>
 The long vowels include: <b>/ɑː eː iː oː u: yː/</b>
 
 1. **ah** = [a:] = <b>/ɑː/</b> = "f<b>a</b>ther"
-1. **eh** = [e:] = <b>/eː/</b> = like French <i>caf<b>é</b></i> but longer (***important 
 1. **eh**, **ee**? = [e:] = <b>/eː/</b> = like French <i>caf<b>é</b></i> but longer (***important but difficult for English speakers***)
 1. **ih**, **ie**? = [i:] = <b>/iː/</b> = "s<b>ee</b>"
 1. **oh**, **eau** = [o:] = <b>/oː/</b> = like French <i>bur<b>eau</b></i> or like Spanish <i>n<b>o</b></i> but longer (***compromise:*** <b>/əʊ/</b> as in "g<b>o</b>")
@@ -185,9 +184,9 @@ Ssemivowels sounds include: <b>/j w/</b>
 
 ### Consonants
 
-Consonant sounds (32) include: <b>/b c ç d dʒ dz f g gz ʒ k ks kw l m n ŋ ŋk nj p ʀ r s sk ʃ t ts tʃ θ v x z/</b>
+Consonant sounds (33) include: <b>/b c ç d dʒ dz f g gz h ʒ k ks kw l m n ŋ ŋk nj p ʀ r s sk ʃ t ts tʃ θ v x z/</b>
 
-Consonant phonemes (24) include: <b>/b c ç d dʒ f g ʒ k l m n ŋ p ʀ r s ʃ t tʃ θ v x z/</b>
+Consonant phonemes (25) include: <b>/b c ç d dʒ f g h ʒ k l m n ŋ p ʀ r s ʃ t tʃ θ v x z/</b>
 
 1. **b**, **bh** = [b] = <b>/b/</b> = "<b>b</b>ed"
 1. **sch** = [c] = <b>/ʃ/</b> = "<b>sh</b>e"
@@ -196,6 +195,7 @@ Consonant phonemes (24) include: <b>/b c ç d dʒ f g ʒ k l m n ŋ p ʀ r s ʃ 
 1. **z**? = [dz] = <b>/dz/</b> = "a<b>dds</b>"
 1. **f**, **ph** = [f] = <b>/f/</b> = "<b>f</b>ather"
 1. **g**a, **g**o, **g**u, **gh** = [g] = <b>/g/</b> = "<b>g</b>et"
+1. **h**a, **h**e, **h**i, **h**o, **h**u, **h**y  = [h] = <b>/h/</b> = "<b>h</b>otel"
 1. **x**? = [gz] = <b>/gz/</b> = "e<b>x</b>aggerate"
 1. **j** = [j] = <b>/ʒ/</b> = "deci<b>si</b>on"
 1. **c**a, **c**o, **c**u, **c**k, c**k**, **ch**_, **k** = [k] = <b>/k/</b> = "<b>c</b>at" (therefore **ck** is /kk/)
@@ -212,7 +212,7 @@ Consonant phonemes (24) include: <b>/b c ç d dʒ f g ʒ k l m n ŋ p ʀ r s ʃ 
 1. **kh** = [q] = <b>/x/</b> = "lo<b>ch</b>" (***very undesirable compromise:*** <b>/k/</b> as in "lo<b>ck</b>")
 1. **r** = [r] = <b>/ʀ/</b> =  German <i><b>r</b>ot</i> (***compromise:*** <b>/ɹ/</b> = "<b>r</b>ed" or any rhotic consonant)
 1. **rr**, **rh** = [rr] = <b>/r/</b> = Spanish <i>ca<b>rr</b>o</i> (***compromise:*** <b>/ɹ/</b> = "<b>r</b>ed" or any rhotic consonant)
-1. **s**? = **sc**e, **sc**i, **sc**y = [s] = <b>/s/</b> = "<b>sc</b>ience"
+1. **s**?, **sc**e, **sc**i, **sc**y = [s] = <b>/s/</b> = "<b>sc</b>ience"
 1. **sc**a, **sc**o, **sc**u = [sk] = <b>/sk/</b> = "<b>sc</b>ollop"
 1. **t**, **th**? = [t] = <b>/t/</b> = "<b>t</b>en"
 1. **ch**? = [tc] = <b>/tʃ/</b> = "<b>ch</b>ew"
@@ -224,7 +224,7 @@ Consonant phonemes (24) include: <b>/b c ç d dʒ f g ʒ k l m n ŋ p ʀ r s ʃ 
 
 ---
 
-`20160602 / 20160606-1507`
+`20160602 / 20160606-1517`
 
 ---
 
