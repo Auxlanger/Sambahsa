@@ -137,9 +137,9 @@ The short vowels include: <b>/ɑ ɛ e ə i o ø u y/</b>
 1. **ai** = [ä] = <b>/ɛ/</b> = "b<b>e</b>d"
 1. **e**? = [e] = <b>/e/</b> = French <i>caf<b>é</b></i> (***important but difficult for English speakers***)
 1. **e**? = [ë] = <b>/ə/</b> = "<b>a</b>go" (but **e** is silent in some positions, such as in **rose**)
-1. **eu** = [ö] = <b>/ø/</b> = French <i>p<b>eu</b></i> (***compromise:*** <b>/əː/</b> 
 1. **i**, **y**? = [i] = <b>/i/</b> = "cos<b>y</b>" (***compromise:*** <b>/ɪ/</b> as in "s<b>i</b>t")
 1. **o** = [o] = <b>/o/</b> = Spanish <i>n<b>o</b></i> (***compromise:*** <b>/ɒ/</b> as in "n<b>o</b>t")
+1. **eu** = [ö] = <b>/ø/</b> = French <i>p<b>eu</b></i> (***compromise:*** <b>/əː/</b> 
 1. **u**?, \_**w**\_ = [u] = <b>/u/</b> = like "t<b>oo</b>" but shorter
 1. **u**?, \_**y**\_ = [ü] = <b>/y/</b> = German <b><i>ü</b>ber</i> (***compromise:*** <b>/uː/</b> as in "f<b>ew</b>")
 
