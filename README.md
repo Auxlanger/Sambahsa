@@ -139,7 +139,7 @@ The short vowels include: <b>/ɑ ɛ e ə i o ø u y/</b>
 1. **e**? = [ë] = <b>/ə/</b> = "<b>a</b>go" (but **e** is silent in some positions, such as in **rose**)
 1. **i**, **y**? = [i] = <b>/i/</b> = "cos<b>y</b>" (***compromise:*** <b>/ɪ/</b> as in "s<b>i</b>t")
 1. **o** = [o] = <b>/o/</b> = Spanish <i>n<b>o</b></i> (***compromise:*** <b>/ɒ/</b> as in "n<b>o</b>t")
-1. **eu** = [ö] = <b>/ø/</b> = French <i>p<b>eu</b></i> (***compromise:*** <b>/əː/</b> 
+1. **eu** = [ö] = <b>/ø/</b> = French <i>p<b>eu</b></i> (***compromise:*** <b>/əː/</b> as in "h<b>er</b>")
 1. **u**?, \_**w**\_ = [u] = <b>/u/</b> = like "t<b>oo</b>" but shorter
 1. **u**?, \_**y**\_ = [ü] = <b>/y/</b> = German <b><i>ü</b>ber</i> (***compromise:*** <b>/uː/</b> as in "f<b>ew</b>")
 
@@ -224,7 +224,7 @@ Consonant phonemes (25) include: <b>/b c ç d dʒ f g h ʒ k l m n ŋ p ʀ r s �
 
 ---
 
-`20160602 / 20160606-1700`
+`20160602 / 20160612-0933`
 
 ---
 
