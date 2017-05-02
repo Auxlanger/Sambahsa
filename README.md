@@ -60,8 +60,6 @@ On each line of the table below, normal Sambahsa spelling of an of *orthographic
 
 Unfortunately, several Sambahsa phonemes will be difficult for English speakers. For some of these the author has in parentheses indicated a suggested ***compromise*** for English speakers. However, [e] should always be pronounced as the pure vowel /e/ as in French <i>caf<b>é</b></i> and never as the diphthong /eɪ/ as in d<b>ay</b>, otherwise confusion will occur between **e** and **ei** (both of which occur frequently).
 
-To avoid confusion, this document uses /ɑ/ for [a]. The French-dictionary IPA symbol /a/ is used for [a] in the official Sambahsa documentation; that is an open front unrounded vowel sound very close to the open back unrounded vowel sound /ɑ/ and the difference is of no importance to being understood in Sambahsa. The sound /æ/ as in "c<b>a</b>t" does not occur in Sambahsa.
-
 According to its inventor, Sambahsa has no real phonotactics, it only has rules of orthography and rules of accentuation, and this was intentional; that is, this was fully a design decision and not an oversight. Therefore it is impossible to list the rules of phonotactics because no such rules are defined other than those implied by the rules of accentuation. Other than checking to see if a proposed new word would violate the rules of the orthography or would not seem to be addressed by the existing rules of accentuation, it is therefore sometimes difficult to ascertain if a proposed new word would be legal or illegal.
 
 Since Sambahsa has no defined system of phonotactics, the author has abandoned his attempt to list an inventory of Sambahsa phonemes, including elucidating the number of short vowels, long vowels, consonants, semivowels and so on in Sambahsa, because in view of the above he finds it impossibly difficult to do so. However, as a compromise, the known sounds listed below are subsequently grouped into categories.
@@ -70,8 +68,8 @@ Since Sambahsa has no defined system of phonotactics, the author has abandoned h
 
 Some sounds of Sambahsa listed in alphabetical order by SPT:
 
-1. **a** = [a] = <b>/ɑ/</b> = shorter than "f<b>a</b>ther"
-1. **ah** = [a:] = <b>/ɑː/</b> = "f<b>a</b>ther"
+1. **a** = [a] = <b>/a/</b> = similar to but shorter than "f<b>a</b>ther"
+1. **ah** = [a:] = <b>/aː/</b> = similar to "f<b>a</b>ther"
 1. **ai** = [ä] = <b>/ɛ/</b> = "b<b>e</b>d"
 1. **ae** = [ae] = <b>/ʌɪ/</b> = "<b>I</b>"
 1. **au** = [Ao] = <b>/aʊ/</b> = "h<b>ow</b>"
@@ -131,9 +129,9 @@ Some sounds of Sambahsa listed in alphabetical order by SPT:
 
 ### Short Vowels
 
-The short vowels include: <b>/ɑ ɛ e ə i o ø u y/</b>
+The short vowels include: <b>/a ɛ e ə i o ø u y/</b>
 
-1. **a** = [a] = <b>/ɑ/</b> = shorter than "f<b>a</b>ther"
+1. **a** = [a] = <b>/a/</b> = similar to but shorter than "f<b>a</b>ther"
 1. **ai** = [ä] = <b>/ɛ/</b> = "b<b>e</b>d"
 1. **e**? = [e] = <b>/e/</b> = French <i>caf<b>é</b></i> (***important but difficult for English speakers***)
 1. **e**? = [ë] = <b>/ə/</b> = "<b>a</b>go" (but **e** is silent in some positions, such as in **rose**)
@@ -145,9 +143,9 @@ The short vowels include: <b>/ɑ ɛ e ə i o ø u y/</b>
 
 ### Long Vowels
 
-The long vowels include: <b>/ɑː eː iː oː u: yː/</b>
+The long vowels include: <b>/aː eː iː oː u: yː/</b>
 
-1. **ah** = [a:] = <b>/ɑː/</b> = "f<b>a</b>ther"
+1. **ah** = [a:] = <b>/aː/</b> = similar to "f<b>a</b>ther"
 1. **eh**, **ee**? = [e:] = <b>/eː/</b> = like French <i>caf<b>é</b></i> but longer (***important but difficult for English speakers***)
 1. **ih**, **ie**? = [i:] = <b>/iː/</b> = "s<b>ee</b>"
 1. **oh**, **eau** = [o:] = <b>/oː/</b> = like French <i>bur<b>eau</b></i> or like Spanish <i>n<b>o</b></i> but longer (***compromise:*** <b>/əʊ/</b> as in "g<b>o</b>")
@@ -224,7 +222,7 @@ Consonant phonemes (25) include: <b>/b c ç d dʒ f g h ʒ k l m n ŋ p ʀ r s �
 
 ---
 
-`20160602 / 20160612-0933`
+`20160602 / 20170503-0635`
 
 ---
 
